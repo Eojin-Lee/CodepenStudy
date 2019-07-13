@@ -1,0 +1,13 @@
+https://aboooks.tistory.com/88 - a:pseudo-class style
+https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container  ,
+https://heropy.blog/2018/11/24/css-flexible-box/ - css display flex box style
+https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Basic_concepts_of_grid_layout  - css display grid box style
+https://developer.mozilla.org/ko/docs/Web/CSS/box-sizing  - css box-sizing style
+
+
+https://developer.mozilla.org/ko/docs/Web/API/Element/classList  - js element.classList.add()/remove()
+https://developer.mozilla.org/ko/docs/Web/API/Element/getAttribute  - js element.getAttribute()
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth  - js element.offset__
+
+https://developer.mozilla.org/ko/docs/DOM  - DOM(Document Object Model)
+
