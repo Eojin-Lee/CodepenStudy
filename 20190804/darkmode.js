@@ -8,4 +8,5 @@ function checkActive(){
   toggleSwitch.classList.toggle('is-active');
   opt1.classList.toggle('is-active');
   opt2.classList.toggle('is-active');
+  console.log('checked');
 }
